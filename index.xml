@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 18 Jan 2020 13:09:47 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2020 13:34:44 -0500</lastBuildDate>
     
 	<atom:link href="https://billdaws.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Work</title>
+      <link>https://billdaws.github.io/notes/deep-work/</link>
+      <pubDate>Sat, 18 Jan 2020 13:34:44 -0500</pubDate>
+      
+      <guid>https://billdaws.github.io/notes/deep-work/</guid>
+      <description>Cal Newport&amp;rsquo;s Deep Work discusses the increasing rarity and also value in the ability to work deeply.
+It has inspired me to reflect a bit on the role that mindfulness and distraction play in daily life.
+At work, much of my contribution relies on my ability to share information with others or to participate in peer review. It seems as though it would be either difficult or hypocritical to focus on my efforts without participating in the distracting, ad-hoc nature of this work.</description>
+    </item>
     
     <item>
       <title>First</title>
@@ -27,7 +38,11 @@
       <pubDate>Sat, 18 Jan 2020 12:48:21 -0500</pubDate>
       
       <guid>https://billdaws.github.io/about/</guid>
-      <description> Hello I am Bill </description>
+      <description>Hello! I am a software developer. I hope to collect and refine here many thoughts, and hopefully someone else will find them useful.
+My professional interests are distributed systems and functional programming.
+My personal interests are chess, video games, and reading.
+I don&amp;rsquo;t have any social media, but my email and github are available on my site&amp;rsquo;s landing page and footer.
+Though it should go without saying, any and every opinion or idea expressed on this site is completely unrelated to my employer unless explicitly mentioned as such.</description>
     </item>
     
   </channel>
