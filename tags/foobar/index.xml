@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foobar on Bill Daws</title>
+    <link>https://billdaws.github.io/tags/foobar/</link>
+    <description>Recent content in Foobar on Bill Daws</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 18 Jan 2020 13:09:47 -0500</lastBuildDate>
+    
+	<atom:link href="https://billdaws.github.io/tags/foobar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://billdaws.github.io/posts/first/</link>
+      <pubDate>Sat, 18 Jan 2020 13:09:47 -0500</pubDate>
+      
+      <guid>https://billdaws.github.io/posts/first/</guid>
+      <description> Hello World! </description>
+    </item>
+    
+  </channel>
+</rss>

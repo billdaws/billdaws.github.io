@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://billdaws.github.io/posts/first/</loc>
+    <lastmod>2020-01-18T13:09:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://billdaws.github.io/about/</loc>
+    <lastmod>2020-01-18T12:48:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://billdaws.github.io/</loc>
+    <lastmod>2020-01-18T13:09:47-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://billdaws.github.io/tags/foobar/</loc>
+    <lastmod>2020-01-18T13:09:47-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://billdaws.github.io/posts/</loc>
+    <lastmod>2020-01-18T13:09:47-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://billdaws.github.io/tags/</loc>
+    <lastmod>2020-01-18T13:09:47-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
